@@ -2,7 +2,7 @@
 This repository will contain code that scrapes mutual fund data for information
 
 # Sources
-U.S. Securities and Exchange Commission, EDGAR System
+U.S. Securities and Exchange Commission, EDGAR System<br>
 https://www.sec.gov/edgar/searchedgar/webusers.htm
 
 # Versions
